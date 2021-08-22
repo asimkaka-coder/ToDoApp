@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="how_to_use_texttodo">How to use TextToDo ?</string>
+    <string name="num_tasks_show">You have %d tasks to complete</string>
+    <string name="greeting_string">%s\nFriend!</string>
+</resources>
