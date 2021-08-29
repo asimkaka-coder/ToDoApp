@@ -24,8 +24,13 @@ A simple todo list app built using Kotlin following MVVM Architecture
   
 ## Screenshots
 
-![App Screenshot1](https://github.com/asimkaka-coder/ToDoApp/blob/master/main.jpg = 200x400)
 <img src="https://github.com/asimkaka-coder/ToDoApp/blob/master/main.jpg" alt="MainScreen" width="200"/>
+
+<img src="https://github.com/asimkaka-coder/ToDoApp/blob/master/add.jpg" alt="MainScreen" width="200"/>
+
+<img src="https://github.com/asimkaka-coder/ToDoApp/blob/master/taskadded.jpg" alt="MainScreen" width="200"/>
+
+<img src="https://github.com/asimkaka-coder/ToDoApp/blob/master/settings.jpg" alt="MainScreen" width="200"/>
 
   
 ## Improvements
