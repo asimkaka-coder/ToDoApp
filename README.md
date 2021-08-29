@@ -1,8 +1,36 @@
-# ToDoApp
-This Project was created for learning purposes.
-I just tried to copy an app NexDo on playstore.
-There are some parts which are not completed:
-1- Implementation for Toogle Dark Mode Button
-2- Implementation of Notification
 
-As I'm stil learning, I will complete this too.
+# ToDo App
+
+A simple todo list app built using Kotlin following MVVM Architecture
+
+## Features
+
+- Add/Update/Delete Task
+- Total Tasks Active
+- Swipe to delete tasks
+- Check Completed Tasks
+- Light/dark mode toggle
+
+
+## Technologies Used
+
+- Jetpack Navigation Component
+- Safe Args
+- Room Database (Sqlite)
+- Recycler View
+- Coroutines
+- Flow and Live Data
+
+  
+## Screenshots
+
+![App Screenshot1](https://github.com/asimkaka-coder/ToDoApp/blob/master/main.jpg)
+
+  
+## Improvements
+
+- Notification Feature can be added
+- Sort by Date and Importance can be addded
+- Some more...
+
+  
